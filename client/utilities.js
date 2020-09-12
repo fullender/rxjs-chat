@@ -1,6 +1,5 @@
 import {
-  Subject,
-  BehaviorSubject
+  Subject
 } from 'rxjs';
 import Swal from 'sweetalert2';
 
